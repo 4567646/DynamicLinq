@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDynamicLinq", "TestDynamicLinq\TestDynamicLinq.csproj", "{F2CC9D90-3410-43B4-B3DE-93BECBFF9562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDynamicLinq.Test", "TestDynamicLinq.Test\TestDynamicLinq.Test.csproj", "{770AE32A-3C81-4FD5-BAF4-0F17B8F107E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2CC9D90-3410-43B4-B3DE-93BECBFF9562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2CC9D90-3410-43B4-B3DE-93BECBFF9562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2CC9D90-3410-43B4-B3DE-93BECBFF9562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2CC9D90-3410-43B4-B3DE-93BECBFF9562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{770AE32A-3C81-4FD5-BAF4-0F17B8F107E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{770AE32A-3C81-4FD5-BAF4-0F17B8F107E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{770AE32A-3C81-4FD5-BAF4-0F17B8F107E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{770AE32A-3C81-4FD5-BAF4-0F17B8F107E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68205B26-FA91-432E-9DCF-629354133D29}
+	EndGlobalSection
+EndGlobal
